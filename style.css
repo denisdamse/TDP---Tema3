@@ -1,6 +1,14 @@
-svg
+.bi-bag-dash-fill
 {
    padding: 20px;
     background-color: pink;
+    border-radius: 16px;
+    color: rgb(253, 94, 121);
+}
+.spatiuldejos
+{
+    margin-right: 1150px;
+    padding: 25px;
+    background-color: rgb(220, 219, 219);
     border-radius: 16px;
 }
